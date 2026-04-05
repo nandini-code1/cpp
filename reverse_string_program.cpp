@@ -1,4 +1,5 @@
 #include <iostream> 
+using namespace std;
 int main() { 
     std::cout << "**Program to reverse a string ** \n"; 
     std::cout<<"Enter the string : "; 
